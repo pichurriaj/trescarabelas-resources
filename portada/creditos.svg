@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="creditos.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="109.24152"
+     inkscape:cy="270.87777"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="916"
+     inkscape:window-height="675"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000"
+       id="rect2985"
+       width="768"
+       height="1280"
+       x="8.5714417"
+       y="-132.78065" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:9.40933704;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2987"
+       width="629.39783"
+       height="605.43335"
+       x="116.0435"
+       y="491.5192"
+       inkscape:export-filename="/home/erik/juegospìchurria/creditos.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffff75;fill-opacity:1;stroke:#000000;stroke-width:8.99098396;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2989"
+       width="558.59235"
+       height="614.74329"
+       x="149.33182"
+       y="455.59821"
+       inkscape:export-filename="/home/erik/juegospìchurria/creditos.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="168.72522"
+       y="545.71375"
+       id="text2991"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/erik/juegospìchurria/creditos.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2993"
+         x="168.72522"
+         y="545.71375"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">Hecho por:</tspan><tspan
+         sodipodi:role="line"
+         x="168.72522"
+         y="595.71375"
+         id="tspan2995"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">Erik Alexander Gonzalez </tspan><tspan
+         sodipodi:role="line"
+         x="168.72522"
+         y="645.71375"
+         id="tspan2997"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">Jovany Leandro Gonzalez</tspan><tspan
+         sodipodi:role="line"
+         x="168.72522"
+         y="695.71375"
+         id="tspan3001"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">Colaboracion de sonido</tspan><tspan
+         sodipodi:role="line"
+         x="168.72522"
+         y="745.71375"
+         id="tspan3005"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">desde la pagina </tspan><tspan
+         sodipodi:role="line"
+         x="168.72522"
+         y="795.71375"
+         id="tspan3007"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">http://dig.ccmixter.org</tspan><tspan
+         sodipodi:role="line"
+         x="168.72522"
+         y="845.71375"
+         id="tspan3777"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">con licencias libres de uso</tspan><tspan
+         sodipodi:role="line"
+         x="168.72522"
+         y="895.71375"
+         id="tspan3779"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">comercial.</tspan></text>
+    <image
+       y="392.85184"
+       x="93.583755"
+       id="image3789"
+       xlink:href="file:///home/erik/juegosp%C3%ACchurria/+neuron/logo/logo3.png"
+       height="123"
+       width="128"
+       inkscape:export-filename="/home/erik/juegospìchurria/creditos.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="177.14285"
+       y="980.93365"
+       id="text3003"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/erik/juegospìchurria/creditos.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3006"
+         x="177.14285"
+         y="980.93365">contacto:</tspan><tspan
+         sodipodi:role="line"
+         x="177.14285"
+         y="1030.9336"
+         id="tspan3008">pichurriajuegos@gmail.com</tspan></text>
+  </g>
+</svg>
